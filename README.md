@@ -19,7 +19,7 @@ chmod +x rpi_temp_bench.sh
 ## Start
 
 ```
-rpi_temp_bench.sh
+rpi_temp_bench.sh default
 ```
 
 
