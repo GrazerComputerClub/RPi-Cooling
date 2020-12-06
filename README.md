@@ -1,7 +1,7 @@
 # RPi-Cooling
 SoC/CPU cooling measurements 
 
-
+#
 # Install
 
 ```
@@ -16,7 +16,7 @@ chmod +x rpi_temp_bench.sh
 ```
 
 
-# Start
+## Start
 
 ```
 rpi_temp_bench.sh
