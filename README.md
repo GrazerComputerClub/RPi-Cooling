@@ -7,7 +7,7 @@ SoC/CPU cooling measurements
 ```
 mkdir ~/rpi_temp_bench
 cd ~/rpi_temp_bench
-sudo apt-get install stress git
+sudo apt-get install stress stress-ng git
 git clone https://github.com/MilhouseVH/bcmstat.git
 sudo cp bcmstat/bcmstat.sh /usr/local/bin/
 sudo chmod +x /usr/local/bin/bcmstat.sh 
